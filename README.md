@@ -3,7 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShinnTNT&label=Profile%20views&color=0e75b6&style=flat-square" alt="ShinnThant" /></p>
 
-- 🔭 I’m currently working as a **developer at Xsphere**
+- 🔭 I’m currently working as a Senior Frontend Developer at Xsphere**
 
 - 🌱 I’m currently learning **BackEnd development**
 
